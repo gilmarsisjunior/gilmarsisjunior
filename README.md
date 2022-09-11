@@ -16,3 +16,14 @@
 <img align="center" alt"jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="center" alt"github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+
+### Sobre mim: 
+
+<i>
+Sou um desenvolvedor PHP/Laravel com perfil analítico/empreendedor com conhecimentos também em bancos de dados relacionais (MySQL, Postgres, etc), Javascript, Git avançado, HTML, CSS e Bootstrap e Fluig. 
+
+Durante minha carreira pude realizar diversas conquistas, como por exemplo: otimizar a resposta de uma api que demorava 18 segundos para montar uma tela. Com isso, o tempo de carregamento caiu de 18 segundos para 500 milissegundos aproximadamente, otimizando muito o tempo de espera do usuário. Outra grande conquista que obtive, foi diminuir a quantidade de requisições em uma api que inicialmente era necessário fazer 7 requisições para montar uma página, consegui diminuir esse número para 1 utilizando ferramentas de cache e sincronizando os dados a cada nova atualização. Com isso, diminuí custos e assegurei que a api estivesse com alta disponibilidade sempre.
+
+Possuo conhecimentos em Testes unitários, Design Patterns, Clean code e configurações de ambiente de produção e homologação.
+</i>
